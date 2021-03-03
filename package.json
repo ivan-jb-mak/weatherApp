@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app using weather API to display the weather temperature and other info.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-jb-mak/weatherApp.git"
+  },
+  "author": "Ivan Mak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-jb-mak/weatherApp/issues"
+  },
+  "homepage": "https://github.com/ivan-jb-mak/weatherApp#readme",
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
